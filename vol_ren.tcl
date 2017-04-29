@@ -1,6 +1,3 @@
-# Amjidanutpan Ramanujam
-# amjith.r@gmail.com
-# cs6630 - Prj 4
 
 package require vtk
 packge require vtkinteraction
